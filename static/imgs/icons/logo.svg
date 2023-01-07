@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 800 800">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        opacity: .9;
+      }
+
+      .cls-4 {
+        opacity: .83;
+      }
+
+      .cls-2, .cls-5 {
+        opacity: .6;
+      }
+
+      .cls-6, .cls-7 {
+        opacity: .7;
+      }
+
+      .cls-6, .cls-8 {
+        fill: #5d867b;
+      }
+
+      .cls-7, .cls-5 {
+        fill: #242e3b;
+      }
+
+      .cls-9 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="154.72" y1="186.78" x2="645.28" y2="613.22" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5d867b" stop-opacity=".9"/>
+      <stop offset=".21" stop-color="#557a72" stop-opacity=".9"/>
+      <stop offset=".58" stop-color="#405a5b" stop-opacity=".9"/>
+      <stop offset=".99" stop-color="#242e3b" stop-opacity=".9"/>
+    </linearGradient>
+  </defs>
+  <g id="icon">
+    <g id="shapes" class="cls-4">
+      <circle id="main" class="cls-9" cx="400" cy="400" r="325"/>
+      <g id="G">
+        <circle class="cls-8" cx="639.47" cy="92.11" r="8.55"/>
+        <circle class="cls-6" cx="690.79" cy="109.21" r="34.21"/>
+        <circle class="cls-8" cx="630.92" cy="625.5" r="17.11"/>
+        <circle class="cls-6" cx="117.76" cy="639.47" r="34.21"/>
+      </g>
+      <g id="B">
+        <circle class="cls-7" cx="92.11" cy="194.74" r="17.11"/>
+        <circle class="cls-7" cx="177.63" cy="682.24" r="17.11"/>
+        <circle class="cls-5" cx="707.89" cy="237.5" r="8.55"/>
+      </g>
+      <g id="W">
+        <circle class="cls-2" cx="109.21" cy="382.89" r="8.55"/>
+      </g>
+    </g>
+    <g id="bot" class="cls-3">
+      <rect class="cls-1" x="317.5" y="418.81" width="41.25" height="41.25"/>
+      <path class="cls-1" d="M523.75,360.8v-3.87c0-53.79-34.5-99.51-82.5-116.54v-27.84h-20.62v-50.89c6.21-5.62,10.11-13.75,10.11-22.78,0-16.97-13.76-30.73-30.73-30.73s-30.73,13.76-30.73,30.73c0,9.03,3.9,17.16,10.11,22.78v50.89h-20.62v27.84c-48,17.03-82.5,62.75-82.5,116.54v3.87c-23.87,8.61-41.25,31.34-41.25,58.01v41.25c0,26.67,17.38,49.4,41.25,58.01v106.99h41.25v-61.88h165v61.88h41.25v-106.99c23.87-8.61,41.25-31.34,41.25-58.01v-41.25c0-26.67-17.38-49.4-41.25-58.01Zm0,98.07c0,12.05-9.77,21.81-21.81,21.81h-203.88c-12.05,0-21.81-9.77-21.81-21.81v-38.88c0-12.05,9.77-21.81,21.81-21.81h203.88c12.05,0,21.81,9.77,21.81,21.81v38.88Z"/>
+      <rect class="cls-1" x="441.25" y="418.81" width="41.25" height="41.25"/>
+    </g>
+  </g>
+</svg>
